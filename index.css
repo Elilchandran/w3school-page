@@ -1,0 +1,68 @@
+/*div.col-12 {
+    list-style-type:circle ;
+  }*/
+  /*.col-12.mt-0.align-self-start {
+    font-family: Verdana, sans-serif;
+    font-size: 15px;
+    margin-bottom: auto;
+    border: 1px solid black;
+    background: #e1efbb url("mountain.jpg");
+    background-size: cover;
+    background-position: center;
+}*/
+ul {
+  list-style: none;
+}
+
+
+.col-12.mt-0.align-self-start{
+  font-family: Verdana, sans-serif;
+  font-size: 15px;
+  margin-bottom: auto;
+  border: 1px solid black;
+  background: #e1efbb url("mountain.jpg");
+  background-size: cover;
+  background-position: center;
+  list-style: disc;
+  list-style-color: black;
+  color: rgb(236, 13, 13);
+  padding-left: 20px;
+}
+
+.black{
+  color: black;
+}
+
+h5 {
+  text-align: left;
+}
+  
+  /*.col-6 ul li:not(:last-child) {
+    background: rgba(128, 128, 128, 0.1);
+    color: red;
+    margin-bottom: 2px;
+    padding: 5px;
+  }
+  
+  .col-6 ul li:last-child {
+    color: black;
+    margin-bottom: 2px;
+    padding: 5px;
+  }*/
+ 
+  
+  
+  
+  
+  
+      
+    
+    
+    
+    
+  
+
+
+  
+     
+    
